@@ -1,4 +1,4 @@
- In this Project helps to understand how the API enpoints can be implemented for different functionalities and observe the results on Swagger - UI.and also gives the concept of how to develop REST API endpoints in the following controllers:
+ In this Project helps to understand how the API enpoints can be implemented for different functionalities and observe the results on Swagger - UI.and gives the concept of how to develop REST API endpoints in the following controllers:
 
 Signup-controller: In this controller, the user will able to sign up for an account.
 
