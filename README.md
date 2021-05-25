@@ -9,3 +9,5 @@ Image-upload-controller: Using the ‘access token’, the user can upload an im
 Admin-controller: The admin needs to review all the images uploaded by users. This controller provides the admin with the details about all the images. Once the admin has reviewed the image, he can update it (if needed) and make it ‘ACTIVE’ through this controller.
 
 Run the application on http://localhost:8080/api/swagger-ui.html and observe the signup-controller.
+
+![Screenshot (180)](https://user-images.githubusercontent.com/72148597/119541979-a9756600-bdac-11eb-99cb-5d0ee5682ff6.png)
